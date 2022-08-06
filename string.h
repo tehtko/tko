@@ -2,6 +2,6 @@
 #define __STRING_H__
 
 char* reverse(char *string);
-char* length(char* string);
+int* length(char *string);
 
 #endif
